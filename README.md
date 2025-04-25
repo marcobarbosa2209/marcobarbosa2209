@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Barbosa</h1>
-<h3 align="center">A passionate full stack developer from Portugal</h3>
+<h3 align="center">TagAlong CEO and developer.</h3>
 
-- 🔭 I’m currently working on **an AI Chess Bot**
+- 🔭 I’m currently working on **a University Hitchhiking APP, TagAlong.**
 
 - 📖 I'm currently studying [Game Development Engineering](https://est.ipca.pt/en/curso/digital-games-development/)
 
